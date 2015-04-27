@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
-ruby '2.2.0'
-gem 'rails', '4.2.0'
+ruby '2.2.1'
+gem 'rails', '4.2.1'
 
 # Rails defaults
 gem 'sqlite3'
@@ -16,6 +16,7 @@ gem 'spring'
 
 # learn-rails
 gem 'foundation-rails'
+gem 'sprockets-rails', '2.1.3'
 gem 'gibbon'
 gem 'google_drive'
 gem 'high_voltage'
